@@ -28,6 +28,10 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>I always need to access your location!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>I need to access your location while you&apos;re using this app!</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
